@@ -1,4 +1,4 @@
-esxLoaded = false ---- test
+esxLoaded = false 
 esx = nil
 
 function Loadesx()
