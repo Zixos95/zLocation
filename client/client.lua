@@ -1,4 +1,4 @@
-local tPreviewCar = nil
+local tPreviewCar = nil --- test
 local tModelCar = nil
 local buy = false
 
